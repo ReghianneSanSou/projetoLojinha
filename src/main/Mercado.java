@@ -25,11 +25,12 @@ public class Mercado {
         System.out.println("--------------Bem vindo a Loja Sansou------------");
         System.out.println("****Selecione uma operação que deseja realizar***");
         System.out.println("-------------------------------------------------");
-        System.out.println("     Opção 1 - Cadastrar   ");
-        System.out.println("     Opção 2 - Listar      ");
-        System.out.println("     Opção 3 - Comprar     ");
-        System.out.println("     Opção 4 - Carrinho    ");
-        System.out.println("     Opção 5 - Sair        ");
+        System.out.println("     Opção 1 - Cadastrar        ");
+        System.out.println("     Opção 1.1 - Excluir Produto");
+        System.out.println("     Opção 2 - Listar           ");
+        System.out.println("     Opção 3 - Comprar          ");
+        System.out.println("     Opção 4 - Carrinho         ");
+        System.out.println("     Opção 5 - Sair             ");
 
         int option = input.nextInt();
 
